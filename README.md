@@ -5,7 +5,7 @@ Note:
 The framework folder has been compressed and uploaded in GitHub
 Please unzip the folder and follow below steps to execute the script.
 
-Precondition
+Precondition:
 Below utilities need to be installed.
 1. Python 2.7
 2. Selenium
